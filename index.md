@@ -9,18 +9,26 @@ My main research interests are
 
 ## Publications
 
-- Vivien Goepp, Jean-Christophe Thalabard, Grégory Nuel, *Regularized hazard estimation for age-period-cohort estimation*, 2018, [preprint](https://hal.archives-ouvertes.fr/hal-01662197).
+- Vivien Goepp, Jean-Christophe Thalabard, Grégory Nuel, *Regularized hazard estimation for age-period-cohort estimation*, 2018, [[preprint]](https://hal.archives-ouvertes.fr/hal-01662197v3).
 
-- Vivien Goepp, Olivier Bouaziz, Grégory Nuel, *Spline regression with automatic knots selection*, 2018, [preprint](https://hal.archives-ouvertes.fr/hal-01853459v1), [package](https://github.com/goepp/aspline).
+- Vivien Goepp, Olivier Bouaziz, Grégory Nuel, *Spline regression with automatic knots selection*, 2018, [[preprint](https://hal.archives-ouvertes.fr/hal-01853459v1), [package](https://github.com/goepp/aspline)].
+
+## Code
+
+I am the maintainer and main author of two R packages hosted on [github](https://github.com):
+
+- `hazreg`
+
+- `aspline`
 
 ## Conferences
 
-- At SAM Conference 2017, I presented a talk entitled L0 Regularization for the estimation of piecewise constant hazard [slides](conference/sam.pdf).
-- At the MAP5's Seminar of Statistics, I presented a talk entitled Estimation régularisée du risque pour l'analyse age-period-cohort [slides](conference/map5.pdf).
-- At the SMPGD 2018, I presented a poster entitled Regularized Hazard Estimation for age-period-cohort analysis [poster](conference/smpgd.pdf).
-- At the International Workshop on Applied Probability 2018, I presented a talk entitled Regularized Hazard Estimation for age-period-cohort Analysis [slides](conference/iwap.pdf).
-- At the International Biometric Conference 2018, I presented a poster entitled Regularized Hazard Estimation for age-period-cohort Analysis [poster](conference/ibc.pdf).
-- At the GDR ''Statistiques et santé'' 2018, I presented a talk entitled Estimating interactions effects in the age-cohort model [slides](conference/gdr.pdf). 
+- At SAM Conference 2017, I presented a talk entitled L0 Regularization for the estimation of piecewise constant hazard [[slides]](conference/sam.pdf).
+- At the MAP5's Seminar of Statistics, I presented a talk entitled Estimation régularisée du risque pour l'analyse age-period-cohort [[slides]](conference/map5.pdf).
+- At the SMPGD 2018, I presented a poster entitled Regularized Hazard Estimation for age-period-cohort analysis [[poster]](conference/smpgd.pdf).
+- At the International Workshop on Applied Probability 2018, I presented a talk entitled Regularized Hazard Estimation for age-period-cohort Analysis [[slides]](conference/iwap.pdf).
+- At the International Biometric Conference 2018, I presented a poster entitled Regularized Hazard Estimation for age-period-cohort Analysis [[poster]](conference/ibc.pdf).
+- At the GDR ``Statistiques et santé'' 2018, I presented a talk entitled Estimating interactions effects in the age-cohort model [[slides]](conference/gdr.pdf). 
 
 ## Teaching
 
