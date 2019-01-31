@@ -24,12 +24,17 @@ I am the maintainer and main author of two R packages:
 
 - At SAM Conference 2017, I presented a talk entitled *L0 Regularization for the estimation of piecewise constant hazard* [[slides](conference/sam.pdf)].
 - At the MAP5's Seminar of Statistics, I presented a talk entitled *Estimation régularisée du risque pour l'analyse age-period-cohort* [[slides](conference/map5.pdf)].
-- At the SMPGD 2018, I presented a poster entitled *Regularized Hazard Estimation for age-period-cohort analysis* [[poster](conference/smpgd.pdf)].
+- At the SMPGD 2018, I presented a poster entitled *Regularized Hazard Estimation for age-period-cohort analysis* [[poster](conference/smpgd_2018.pdf)].
 - At the International Workshop on Applied Probability 2018, I presented a talk entitled *Regularized Hazard Estimation for age-period-cohort Analysis* [[slides](conference/iwap.pdf)].
 - At the International Biometric Conference 2018, I presented a poster entitled *Regularized Hazard Estimation for age-period-cohort Analysis* [[poster](conference/ibc.pdf)].
 - At the GDR ``Statistiques et santé'' 2018, I presented a talk entitled *Estimating interactions effects in the age-cohort model* [[slides](conference/gdr.pdf)]. 
+- At [https://web.archive.org/web/20190131104304/https://smpgd2019.sciencesconf.org/](SMPGD 2019), I presented a poster entitled *Interaction Effects in Age-Period-Cohort Analysis* [[slides](conference/smpgd_2019.pdf)]
 
 ## Teaching
 
 I am a tutorial assistant at the Faculty of Pharmacy of the Paris Descartes University. I teach R programming, fundamental algebra and analysis, and introduction to probability and statistics. 
+
+## Misc
+
+- [http://mirrors.ircam.fr/pub/CTAN/macros/latex/contrib/beamer-contrib/themes/beamertheme-light/beamertheme-light-example.pdf](Minimalist beamer template)
 
