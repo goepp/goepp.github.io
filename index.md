@@ -37,4 +37,5 @@ I am a tutorial assistant at the Faculty of Pharmacy of the Paris Descartes Univ
 ## Misc
 
 - [Minimalist beamer template](http://mirrors.ircam.fr/pub/CTAN/macros/latex/contrib/beamer-contrib/themes/beamertheme-light/beamertheme-light-example.pdf)
+- [Automatic R code formatting](https://yihui.name/formatr/)
 
