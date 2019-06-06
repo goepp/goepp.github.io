@@ -8,10 +8,17 @@ My main research interests are
 - Regularization, sparse models, and model selection
 
 ## Publications
+### Submitted 
 
-- Vivien Goepp, Jean-Christophe Thalabard, Grégory Nuel, *Regularized hazard estimation for age-period-cohort estimation*, 2018, [[preprint]](https://hal.archives-ouvertes.fr/hal-01662197v3).
+- Vivien Goepp, Jean-Christophe Thalabard, Grégory Nuel, *Regularized hazard estimation for age-period-cohort estimation*, 2018 (Submitted to IJB), [[preprint]](https://hal.archives-ouvertes.fr/hal-01662197v3).
 
-- Vivien Goepp, Olivier Bouaziz, Grégory Nuel, *Spline regression with automatic knots selection*, 2018, [[preprint](https://hal.archives-ouvertes.fr/hal-01853459v1), [package](https://github.com/goepp/aspline)].
+- Vivien Goepp, Olivier Bouaziz, Grégory Nuel, *Spline regression with automatic knots selection*, 2018 (Submitted to JCGS), [[preprint](https://hal.archives-ouvertes.fr/hal-01853459v1), [package](https://github.com/goepp/aspline)].
+
+### In preparation
+
+- Vivien Goepp, Grégory Nuel, Olivier Bouaziz, *Estimating interaction effects in the two-factor mdoels*.
+
+- Vivien Goepp, Jan van de Kassteele, Grégory Nuel, *Segmentation of spatial effects using the adjacency structure*.
 
 ## Code
 
