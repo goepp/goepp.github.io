@@ -22,20 +22,25 @@ My main research interests are
 
 ## Code
 
-I am the maintainer and main author of two R packages:
+I am the maintainer and main author of three R packages:
 
 - [hazreg](https://github.com/goepp/hazreg) gathers several estimation procedures of *hazard regularization* in the context right-censored, bidimensional survival data.
 - [aspline](https://github.com/goepp/aspline) performs spline regression with automatic knot selection.
+- [graphseg](https://github.com/goepp/graphseg) performs segmentation of spatial effects.
 
 ## Conferences
+I have presented the following talks and posters:
 
-- At SAM Conference 2017, I presented a talk entitled *L0 Regularization for the estimation of piecewise constant hazard* [[slides](conference/sam.pdf)].
-- At the MAP5's Seminar of Statistics, I presented a talk entitled *Estimation régularisée du risque pour l'analyse age-period-cohort* [[slides](conference/map5.pdf)].
-- At the [SMPGD 2018](https://web.archive.org/web/20190131163210/https://smpgd2018.sciencesconf.org/), I presented a poster entitled *Regularized Hazard Estimation for age-period-cohort analysis* [[poster](conference/smpgd_2018.pdf)].
-- At the International Workshop on Applied Probability 2018, I presented a talk entitled *Regularized Hazard Estimation for age-period-cohort Analysis* [[slides](conference/iwap.pdf)].
-- At the International Biometric Conference 2018, I presented a poster entitled *Regularized Hazard Estimation for age-period-cohort Analysis* [[poster](conference/ibc.pdf)].
+### Talks
+- At SAM Conference 2017, *L0 Regularization for the estimation of piecewise constant hazard* [[slides](conference/sam.pdf)].
+- At the MAP5's Seminar of Statistics, *Estimation régularisée du risque pour l'analyse age-period-cohort* [[slides](conference/map5.pdf)].
+- At the International Workshop on Applied Probability 2018, *Regularized Hazard Estimation for age-period-cohort Analysis* [[slides](conference/iwap.pdf)].
 - At the GDR ``Statistiques et santé'' 2018, I presented a talk entitled *Estimating interactions effects in the age-cohort model* [[slides](conference/gdr.pdf)]. 
-- At [SMPGD 2019](https://smpgd2019.sciencesconf.org/), I presented a poster entitled *Interaction Effects in Age-Period-Cohort Analysis* [[slides](conference/smpgd_2019.pdf)]
+
+### Posters
+- At the [SMPGD 2018](https://web.archive.org/web/20190131163210/https://smpgd2018.sciencesconf.org/), *Regularized Hazard Estimation for age-period-cohort analysis* [[poster](conference/smpgd_2018.pdf)].
+- At the International Biometric Conference 2018, I presented a poster entitled *Regularized Hazard Estimation for age-period-cohort Analysis* [[poster](conference/ibc.pdf)].
+- At [SMPGD 2019](https://smpgd2019.sciencesconf.org/), I presented a poster entitled *Interaction Effects in Age-Period-Cohort Analysis* [[poster](conference/smpgd_2019.pdf)]
 
 ## Teaching
 
@@ -43,6 +48,6 @@ I am a tutorial assistant at the Faculty of Pharmacy of the Paris Descartes Univ
 
 ## Misc
 
-- [Minimalist beamer template](http://mirrors.ircam.fr/pub/CTAN/macros/latex/contrib/beamer-contrib/themes/beamertheme-light/beamertheme-light-example.pdf)
 - [Automatic R code formatting](https://yihui.name/formatr/)
+- [Minimalist beamer template](http://mirrors.ircam.fr/pub/CTAN/macros/latex/contrib/beamer-contrib/themes/beamertheme-light/beamertheme-light-example.pdf), by [Fabien Vergnet](https://www.math.u-psud.fr/~vergnet/).
 
