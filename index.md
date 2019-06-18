@@ -36,6 +36,7 @@ I have presented the following talks and posters:
 - At the MAP5's Seminar of Statistics, *Estimation régularisée du risque pour l'analyse age-period-cohort* [[slides](conference/map5.pdf)].
 - At the International Workshop on Applied Probability 2018, *Regularized Hazard Estimation for age-period-cohort Analysis* [[slides](conference/iwap.pdf)].
 - At the GDR ``Statistiques et santé'' 2018, I presented a talk entitled *Estimating interactions effects in the age-cohort model* [[slides](conference/gdr.pdf)]. 
+- At the seminar of the [CépiDc](https://www.cepidc.inserm.fr/), I was invited to present a talk about *New methods in Age-Period-Cohort analysis based on the adaptive ridge* [[slides]](conference/cepidc.pdf)
 
 ### Posters
 - At the [SMPGD 2018](https://web.archive.org/web/20190131163210/https://smpgd2018.sciencesconf.org/), *Regularized Hazard Estimation for age-period-cohort analysis* [[poster](conference/smpgd_2018.pdf)].
