@@ -5,7 +5,7 @@ I am a PhD Student in [MAP5](http://map5.mi.parisdescartes.fr/) at Paris Descart
 My main research interests are
 
 - Survival analysis and age-period-cohort analysis
-- Regularization, sparse models, and model selection
+- Regularization, sparse models, and variable selection
 
 ## Publications
 ### Submitted 
