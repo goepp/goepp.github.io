@@ -1,6 +1,7 @@
 ## Position
 
 I am a former PhD Student from [MAP5](http://map5.mi.parisdescartes.fr/) at Paris Descartes University and in [LPSM](http://www.lpsm.paris) at Sorbonne Université, under the supervision of [Olivier Bouaziz](http://www.math-info.univ-paris5.fr/~obouaziz/) and [Grégory Nuel](http://nuel.perso.math.cnrs.fr/).
+
 I defended my PhD thesis entitled *An iterative regularized method for segmentation with applications to statistics* [[manuscript](phd/manuscript), [slides](phd/slides)].
 
 My main research interests are
@@ -11,7 +12,7 @@ My main research interests are
 ## Publications
 ### Submitted 
 
-- Vivien Goepp, Jean-Christophe Thalabard, Grégory Nuel, *Regularized hazard estimation for age-period-cohort estimation*, 2018 (Submitted to IJB), [[preprint]](https://hal.archives-ouvertes.fr/hal-01662197v3).
+- Vivien Goepp, Jean-Christophe Thalabard, Grégory Nuel, *Regularized hazard estimation for age-period-cohort estimation*, 2018 (Submitted to IJB), [[preprint](https://hal.archives-ouvertes.fr/hal-01662197v3)].
 
 - Vivien Goepp, Olivier Bouaziz, Grégory Nuel, *Spline regression with automatic knots selection*, 2018 (Submitted to JCGS), [[preprint](https://hal.archives-ouvertes.fr/hal-01853459v1), [package](https://github.com/goepp/aspline)].
 
