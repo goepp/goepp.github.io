@@ -2,7 +2,7 @@
 
 I am a former PhD Student from [MAP5](http://map5.mi.parisdescartes.fr/) at Paris Descartes University and in [LPSM](http://www.lpsm.paris) at Sorbonne Université, under the supervision of [Olivier Bouaziz](http://www.math-info.univ-paris5.fr/~obouaziz/) and [Grégory Nuel](http://nuel.perso.math.cnrs.fr/).
 
-I defended my PhD thesis entitled *An iterative regularized method for segmentation with applications to statistics* [[manuscript](phd/manuscript), [slides](phd/slides)].
+I defended my PhD thesis entitled *An iterative regularized method for segmentation with applications to statistics* [[manuscript](phd/manuscript.pdf), [slides](phd/slides.pdf)].
 
 My main research interests are
 
