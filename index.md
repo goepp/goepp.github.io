@@ -1,6 +1,6 @@
-## Position
+## About me
 
-I am currently a postdoc at [CBIO](http://cbio.mines-paristech.fr/), in [Mines ParisTech](http://www.mines-paristech.fr/) and Institut Curie (in the bioinformatics lab  [U900](https://science.curie.fr/recherche/biologie-interactive-des-tumeurs-immunologie-environnement/c/)). I am working under the supervision of [Chloé-Agathe Azencott](http://cazencott.info/) on detecting interaction effects in GWAS data.
+I am currently a postdoc at [CBIO](http://cbio.mines-paristech.fr/), in [Mines ParisTech](http://www.mines-paristech.fr/) and Institut Curie (in the bioinformatics lab  [U900](https://science.curie.fr/recherche/biologie-interactive-des-tumeurs-immunologie-environnement/c/)). I am working under the supervision of [Chloé-Agathe Azencott](http://cazencott.info/) on epistatis in GWAS data.
 
 Before that, I completed my PhD in [MAP5](http://map5.mi.parisdescartes.fr/) at Paris Descartes University and in [LPSM](http://www.lpsm.paris) at Sorbonne Université, under the supervision of [Olivier Bouaziz](http://www.math-info.univ-paris5.fr/~obouaziz/) and [Grégory Nuel](http://nuel.perso.math.cnrs.fr/), on the topics of regularized models with applications to epidemiology.
 
@@ -53,7 +53,14 @@ I have presented the following talks and posters:
 
 ## Teaching
 
-I was a tutorial assistant at the Faculty of Pharmacy of the Paris Descartes University. I teach R programming, fundamental algebra and analysis, and introduction to probability and statistics. 
+From 2016 to 2019, I was a tutorial assistant at the Faculty of Pharmacy of the Paris Descartes University. I taught R programming, fundamental algebra and analysis, and introduction to probability and statistics. 
+
+## Contact
+
+Office 315
+Mines ParisTech
+60, boulevard Saint-Michel
+first.last'at'mines'dash'paristech.fr
 
 ## Misc
 
