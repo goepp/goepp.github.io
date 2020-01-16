@@ -1,0 +1,48 @@
+%    File: francis_bacon.tex
+%   Created: mar. oct. 15 07:00  2019 C
+% Last Change: mar. oct. 15 07:00  2019 C
+%
+\documentclass[a4paper, 12pt]{report}
+\usepackage[urw-garamond]{mathdesign}
+\usepackage[francais]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\begin{document}
+\topskip0pt
+\vspace*{\fill}
+\pagestyle{empty}
+\begin{center}
+		\Huge{Francis Bacon}
+\end{center}
+\vspace*{\fill}
+Je ne dessine pas.
+Je commence à faire toutes sortes de taches.
+J’attends ce que j'appelle « l'accident » : la tache à partir de laquelle va partir le tableau.
+La tache c’est l’accident.
+Mais si on tient à l’accident, si on croit qu’on comprend l’accident, on va faire encore de l’illustration, car la tache ressemble toujours à quelque chose.
+On ne peut pas comprendre l’accident.
+Si on pouvait le comprendre, on comprendrait aussi la façon avec laquelle on va agir.
+Or cette façon avec laquelle on va agir, c’est l’imprévu, on ne peut jamais la comprendre : « It’s basically the technical imagination » : « l’imagination technique ».
+J’ai beaucoup cherché comment appeler cette façon imprévisible avec laquelle on va agir.
+Je n’ai jamais trouvé que ces mots-là : imagination technique.
+Vous comprenez, le sujet est toujours le même.
+C’est le changement de l’imagination technique qui peut faire se « retourner » le sujet sur le système nerveux personnel.
+Imaginez des scènes extraordinaires, ce n’est pas intéressant du tout du point de vue de la peinture, ça n’est pas l’imagination.
+L’imagination véritable est construite par l’imagination technique.
+Le reste c’est l’imagination imaginaire, ça ne mène nulle part.
+Je ne peux pas lire Sade pour cette raison.
+Ça ne me dégoûte pas complètement, mais ça m’ennuie.
+De même il y a des écrivains mondialement connus que je ne peux pas lire non plus.
+Ils écrivent des choses qui sont des histoires sensationnelles, seulement ça.
+But they have not the technical sensation.
+C’est toujours par les techniciens qu’on trouve les vraies ouvertures.
+L’imagination technique c’est l’instinct qui travaille hors des lois pour retourner le sujet sur le système nerveux avec la force de la nature.
+Il y a bien des jeunes peintres qui creusent la terre, prennent de la terre et ensuite exposent cette terre dans une galerie de peinture.
+C’est bête et ça prouve le manque d’imagination technique.
+C’est intéressant qu’ils aient l’envie de changer le sujet à un point tel qu’ils en arrivent à ça : arracher un morceau de terre et le mettre sur un socle.
+Mais ce qu’il faudrait, c’est que la « force » avec laquelle ils arrachent la terre se « retourne ».
+Que le morceau de terre soit arraché, oui, mais qu’il soit arraché à leur système personnel et fait avec leur imagination technique.
+\vspace*{\fill}
+\end{document}
+
+

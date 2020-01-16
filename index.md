@@ -1,11 +1,12 @@
 ## Position
 
-I am a former PhD Student from [MAP5](http://map5.mi.parisdescartes.fr/) at Paris Descartes University and in [LPSM](http://www.lpsm.paris) at Sorbonne Université, under the supervision of [Olivier Bouaziz](http://www.math-info.univ-paris5.fr/~obouaziz/) and [Grégory Nuel](http://nuel.perso.math.cnrs.fr/).
+I am currently a postdoc at [CBIO](http://cbio.mines-paristech.fr/), in [Mines ParisTech](http://www.mines-paristech.fr/) and Institut Curie (in the bioinformatics lab  [U900](https://science.curie.fr/recherche/biologie-interactive-des-tumeurs-immunologie-environnement/c/)). I am working under the supervision of [Chloé-Agathe Azencott](http://cazencott.info/) on detecting interaction effects in GWAS data.
 
-I defended my PhD thesis entitled *An iterative regularized method for segmentation with applications to statistics* [[manuscript](phd/manuscript.pdf), [slides](phd/slides.pdf)].
+Before that, I completed my PhD in [MAP5](http://map5.mi.parisdescartes.fr/) at Paris Descartes University and in [LPSM](http://www.lpsm.paris) at Sorbonne Université, under the supervision of [Olivier Bouaziz](http://www.math-info.univ-paris5.fr/~obouaziz/) and [Grégory Nuel](http://nuel.perso.math.cnrs.fr/), on the topics of regularized models with applications to epidemiology.
 
 My main research interests are
 
+- GWAS data and machine learning
 - Survival analysis and age-period-cohort analysis
 - Regularization, sparse models, and variable selection
 
@@ -21,6 +22,11 @@ My main research interests are
 - Vivien Goepp, Grégory Nuel, Olivier Bouaziz, *Estimating interaction effects in the two-factor mdoels*.
 
 - Vivien Goepp, Jan van de Kassteele, Grégory Nuel, *Segmentation of spatial effects using the adjacency structure*.
+
+### Thesis
+
+- PhD Thesis: *An iterative regularized method for segmentation with applications to statistics* [[manuscript](phd/manuscript.pdf), [slides](phd/slides.pdf)] (2019).
+
 
 ## Code
 
@@ -47,7 +53,7 @@ I have presented the following talks and posters:
 
 ## Teaching
 
-I am a tutorial assistant at the Faculty of Pharmacy of the Paris Descartes University. I teach R programming, fundamental algebra and analysis, and introduction to probability and statistics. 
+I was a tutorial assistant at the Faculty of Pharmacy of the Paris Descartes University. I teach R programming, fundamental algebra and analysis, and introduction to probability and statistics. 
 
 ## Misc
 
