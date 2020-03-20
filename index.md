@@ -25,7 +25,7 @@ My main research interests are
 
 ### Thesis
 
-- PhD Thesis: *An iterative regularized method for segmentation with applications to statistics* [[manuscript](phd/phd_manuscript.pdf), [slides](phd/phd_slides.pdf)] (2019).
+- PhD Thesis: *An iterative regularized method for segmentation with applications to statistics* [[manuscript](https://hal.archives-ouvertes.fr/tel-02473848v1), [slides](phd/phd_slides.pdf)] (2019).
 
 
 ## Code
