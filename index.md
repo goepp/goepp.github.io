@@ -60,7 +60,7 @@ From 2016 to 2019, I was a tutorial assistant at the Faculty of Pharmacy of the 
 Office V 315, CBIO  
 Mines ParisTech  
 60, boulevard Saint-Michel   
-email: firstname.lastname'at'mines'dash'paristech.fr
+email: firstname.lastname'at'gmail'dot'com
 
 ## Misc
 
