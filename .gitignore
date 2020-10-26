@@ -1,1 +1,4 @@
-^illustrations/$
+^illustrations/*$
+^*~$
+^resources*$
+^*.swp$
