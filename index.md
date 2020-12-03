@@ -13,7 +13,7 @@ My main research interests are
 ## Publications
 ### Submitted 
 
-- Vivien Goepp, Jean-Christophe Thalabard, Grégory Nuel, *Regularized hazard estimation for age-period-cohort estimation*, 2018 (Submitted to IJB), [[preprint](https://hal.archives-ouvertes.fr/hal-01662197v3)].
+- Vivien Goepp, Jean-Christophe Thalabard, Grégory Nuel, *Regularized hazard estimation for age-period-cohort estimation*, 2018 (To appear in the International Journal of Biostatistics), [[preprint](https://hal.archives-ouvertes.fr/hal-01662197v3)].
 
 - Vivien Goepp, Olivier Bouaziz, Grégory Nuel, *Spline regression with automatic knots selection*, 2018 (Submitted to JCGS), [[preprint](https://hal.archives-ouvertes.fr/hal-01853459v1), [package](https://github.com/goepp/aspline)].
 
