@@ -1,3 +1,5 @@
+*Open position for an internship starting Feb. 2021* (details [offer/internshi_proposal_cbio.pdf](here)).
+
 ## About me
 
 I am currently a postdoc at [CBIO](http://cbio.mines-paristech.fr/), in [Mines ParisTech](http://www.mines-paristech.fr/) and Institut Curie (in the bioinformatics lab  [U900](https://science.curie.fr/recherche/biologie-interactive-des-tumeurs-immunologie-environnement/c/)). I am working under the supervision of [Chloé-Agathe Azencott](http://cazencott.info/) on epistatis in GWAS data. A short presentation of my project is available [here](conference/cbio_meeting.pdf).
@@ -48,7 +50,7 @@ I have presented the following talks and posters:
 
 ### Posters
 - At the [SMPGD 2018](https://web.archive.org/web/20190131163210/https://smpgd2018.sciencesconf.org/), *Regularized Hazard Estimation for age-period-cohort analysis* [[poster](conference/smpgd_2018.pdf)].
-- At the International Biometric Conference 2018, I presented a poster entitled *Regularized Hazard Estimation for age-period-cohort Analysis* [[poster](conference/ibc.pdf)].
+- At the [International Biometric Conference 2018](http://2018.biometricconference.org/), I presented a poster entitled *Regularized Hazard Estimation for age-period-cohort Analysis* [[poster](conference/ibc.pdf)].
 - At [SMPGD 2019](https://smpgd2019.sciencesconf.org/), I presented a poster entitled *Interaction Effects in Age-Period-Cohort Analysis* [[poster](conference/smpgd_2019.pdf)]
 
 ## Teaching
