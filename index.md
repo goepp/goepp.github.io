@@ -2,15 +2,15 @@
 
 ## About me
 
-I am currently a postdoc at [CBIO](http://cbio.mines-paristech.fr/), in [Mines ParisTech](http://www.mines-paristech.fr/) and Institut Curie (in the bioinformatics lab  [U900](https://science.curie.fr/recherche/biologie-interactive-des-tumeurs-immunologie-environnement/c/)). I am working under the supervision of [Chloé-Agathe Azencott](http://cazencott.info/) on epistatis in GWAS data. A short presentation of my project is available [here](conference/cbio_meeting.pdf).
+I am currently a postdoc at [CBIO](http://cbio.mines-paristech.fr/), in [Mines ParisTech](http://www.mines-paristech.fr/) and Institut Curie (in the bioinformatics lab  [U900](https://science.curie.fr/recherche/biologie-interactive-des-tumeurs-immunologie-environnement/c/)). I am working under the supervision of [Chloé-Agathe Azencott](http://cazencott.info/) on epistatis in GWAS data. A short presentation of my scientific project is available [here](conference/cbio_meeting.pdf).
 
-Before that, I completed my PhD in [MAP5](http://map5.mi.parisdescartes.fr/) at Paris Descartes University and in [LPSM](http://www.lpsm.paris) at Sorbonne Université, under the supervision of [Olivier Bouaziz](http://www.math-info.univ-paris5.fr/~obouaziz/) and [Grégory Nuel](http://nuel.perso.math.cnrs.fr/), on the topics of regularized models with applications to epidemiology.
+Before that, I completed my PhD in [MAP5](http://map5.mi.parisdescartes.fr/) at Paris Descartes University and in [LPSM](http://www.lpsm.paris) at Sorbonne Université, under the supervision of [Olivier Bouaziz](http://www.math-info.univ-paris5.fr/~obouaziz/) and [Grégory Nuel](http://nuel.perso.math.cnrs.fr/), on the topic of regularized models with applications to epidemiology.
 
 My main research interests are
 
-- GWAS data and machine learning
-- Survival analysis and age-period-cohort analysis
+- Machine learning for GWAS data
 - Regularization, sparse models, and variable selection
+- Survival analysis and age-period-cohort analysis
 
 ## Publications
 ### Submitted 
