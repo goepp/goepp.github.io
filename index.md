@@ -1,4 +1,4 @@
-*Open position for an internship starting Feb. 2021* (details [offer/internshi_proposal_cbio.pdf](here)).
+*Open position for an internship starting Feb. 2021* (details [here](offer/internshi_proposal_cbio.pdf)).
 
 ## About me
 
