@@ -64,8 +64,4 @@ Mines ParisTech
 60, boulevard Saint-Michel   
 email: firstname.lastname'at'gmail'dot'com
 
-## Misc
-
-- [Automatic R code formatting](https://yihui.name/formatr/)
-- [Minimalist beamer template](http://mirrors.ircam.fr/pub/CTAN/macros/latex/contrib/beamer-contrib/themes/beamertheme-light/beamertheme-light-example.pdf), by [Fabien Vergnet](https://www.math.u-psud.fr/~vergnet/).
 
