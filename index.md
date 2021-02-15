@@ -1,5 +1,3 @@
-~~*Open position for an internship starting Feb. 2021* (details [here](offer/internship_proposal_cbio.pdf)).~~ **This position has been filled.**
-
 ## About me
 
 I am currently a postdoc at [CBIO](http://cbio.mines-paristech.fr/), in [Mines ParisTech](http://www.mines-paristech.fr/) and Institut Curie (in the bioinformatics lab  [U900](https://science.curie.fr/recherche/biologie-interactive-des-tumeurs-immunologie-environnement/c/)). I am working under the supervision of [Chloé-Agathe Azencott](http://cazencott.info/) on epistatis in GWAS data. A short presentation of my scientific project is available [here](conference/cbio_meeting.pdf).
