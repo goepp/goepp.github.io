@@ -55,6 +55,8 @@ I have presented the following talks and posters:
 
 From 2016 to 2019, I was a tutorial assistant at the Faculty of Pharmacy of the Paris Descartes University. I taught R programming, fundamental algebra and analysis, and introduction to probability and statistics. 
 
+
+
 ## Contact
 
 Office V 315, CBIO  
