@@ -30,7 +30,7 @@ My main research interests are
 
 ## Code
 
-I am the maintainer and main author of three R packages:
+I am the main author of three R packages:
 
 - [hazreg](https://github.com/goepp/hazreg) gathers several estimation procedures of *hazard regularization* in the context right-censored, bidimensional survival data.
 - [aspline](https://github.com/goepp/aspline) performs spline regression with automatic knot selection.
@@ -54,7 +54,7 @@ I have presented the following talks and posters:
 ## Teaching
 
 From 2016 to 2019, I was a tutorial assistant at the Faculty of Pharmacy of the Paris Descartes University. I taught R programming, fundamental algebra and analysis, and introduction to probability and statistics. 
-
+In 2021, I taught in the intensive week course [Machine learning in genomics](https://data-psl.github.io/intensive-week-genomics/).
 
 
 ## Contact
