@@ -1,4 +1,4 @@
-^illustrations/*$
-^*~$
-^resources*$
-^*.swp$
+illustrations/*
+*~
+resources*
+*.swp
