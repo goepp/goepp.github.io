@@ -11,17 +11,15 @@ My main research interests are
 - Survival analysis and age-period-cohort analysis
 
 ## Publications
-### Submitted 
+### Published
 
-- Vivien Goepp, Jean-Christophe Thalabard, Grégory Nuel, *Regularized hazard estimation for age-period-cohort estimation*, 2018 (To appear in the International Journal of Biostatistics), [[preprint](https://hal.archives-ouvertes.fr/hal-01662197v3)].
+- Vivien Goepp, Jean-Christophe Thalabard, Grégory Nuel, *Regularized bidimensional estimation of the hazard rate*, 2018 (International Journal of Biostatistics), [[paper](https://doi.org/10.1515/ijb-2019-0003)].
 
-- Vivien Goepp, Olivier Bouaziz, Grégory Nuel, *Spline regression with automatic knots selection*, 2018 (Submitted to JCGS), [[preprint](https://hal.archives-ouvertes.fr/hal-01853459v1), [package](https://github.com/goepp/aspline)].
+### Submitted
 
-### In preparation
+- Goepp V., Bouaziz O., Nuel G., *Spline regression with automatic knots selection*, 2018 (Submitted to CSDA), [[preprint](https://hal.archives-ouvertes.fr/hal-01853459v1), [package](https://github.com/goepp/aspline)].
 
-- Vivien Goepp, Grégory Nuel, Olivier Bouaziz, *Estimating interaction effects in the two-factor mdoels*.
-
-- Vivien Goepp, Jan van de Kassteele, Grégory Nuel, *Segmentation of spatial effects using the adjacency structure*.
+- Vivien Goepp and Jan van de Kassteele, *Graph-Based Spatial Segmentation of Health-Related Areal Data*, 2022 (Submitted to CSDA) [[preprint](https://hal.archives-ouvertes.fr/hal-03474990v1), [package](https://github.com/goepp/graphseg)].
 
 ### Thesis
 
@@ -32,9 +30,9 @@ My main research interests are
 
 I am the main author of three R packages:
 
-- [hazreg](https://github.com/goepp/hazreg) gathers several estimation procedures of *hazard regularization* in the context right-censored, bidimensional survival data.
-- [aspline](https://github.com/goepp/aspline) performs spline regression with automatic knot selection.
-- [graphseg](https://github.com/goepp/graphseg) performs segmentation of spatial effects.
+- *hazreg* gathers several estimation procedures of *hazard regularization* in the context right-censored, bidimensional survival data [github](https://github.com/goepp/hazreg).
+- *aspline* performs spline regression with automatic knot selection. [github](https://github.com/goepp/aspline), [CRAN](https://cran.r-project.org/web/packages/aspline/index.html)
+- *graphseg* performs segmentation of spatial effects [github](https://github.com/goepp/graphseg)
 
 ## Conferences
 I have presented the following talks and posters:
