@@ -19,7 +19,7 @@ My main research interests are
 
 - Goepp V., Bouaziz O., Nuel G., *Spline regression with automatic knots selection*, 2018 (Submitted to CSDA), [[preprint](https://hal.archives-ouvertes.fr/hal-01853459v1), [package](https://github.com/goepp/aspline)].
 
-- Vivien Goepp and Jan van de Kassteele, *Graph-Based Spatial Segmentation of Health-Related Areal Data*, 2022 (Submitted to CSDA) [[preprint](https://hal.archives-ouvertes.fr/hal-03474990v1), [package](https://github.com/goepp/graphseg)].
+- Vivien Goepp and Jan van de Kassteele, *Graph-Based Spatial Segmentation of Health-Related Areal Data*, 2022 (Submitted to CSDA) [[preprint](https://doi.org/10.48550/arXiv.2206.06752), [package](https://github.com/goepp/graphseg)].
 
 ### Thesis
 
